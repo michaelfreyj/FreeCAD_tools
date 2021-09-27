@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "name": "thread_mill_generic",
+  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/thread-mill.fcstd",
+  "parameter": {
+    "Chipload": "0.000 mm",
+    "Crest": "0.100 mm",
+    "Diameter": "5.525 mm",
+    "Flutes": "2",
+    "Length": "40.000 mm",
+    "Material": "Carbide",
+    "NeckDiameter": "3.125 mm",
+    "NeckLength": "15.000 mm",
+    "ShankDiameter": "6.350 mm",
+    "cuttingAngle": "60.000 \u00b0"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,25 @@
+{
+  "tools": [
+    {
+      "nr": 1,
+      "path": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Bit\\3-8in_MaxiMet_3Flute_endmill.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Bit\\3-16in_MaxiMet_3Flute_endmill.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Bit\\3-8in_Kor5_5Flute_bullnose.fctb"
+    },
+    {
+      "nr": 4,
+      "path": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Bit\\1-2in_Maximet_3Flute_bullnose.fctb"
+    },
+    {
+      "nr": 5,
+      "path": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Bit\\1-4in_45degree_Harvey_dovetail.fctb"
+    }
+  ],
+  "version": 1
+}

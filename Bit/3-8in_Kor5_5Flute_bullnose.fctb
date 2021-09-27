@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "3-8in_Kor5_5Flute_bullnose",
+  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/bullnose.fcstd",
+  "parameter": {
+    "Chipload": "76.200 \u00b5m",
+    "CuttingEdgeHeight": "28.575 mm",
+    "Diameter": "9.525 mm",
+    "FlatRadius": "0.381 mm",
+    "Flutes": "5",
+    "Length": "76.200 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "9.525 mm"
+  },
+  "attribute": {}
+}

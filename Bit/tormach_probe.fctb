@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "tormach_probe",
+  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/probe.fcstd",
+  "parameter": {
+    "Diameter": "3.000 mm",
+    "Length": "40.000 mm",
+    "ShaftDiameter": "2.000 mm",
+    "SpindlePower": "False"
+  },
+  "attribute": {}
+}

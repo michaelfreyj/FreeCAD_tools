@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "1-2in_Maximet_3Flute_bullnose",
+  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/bullnose.fcstd",
+  "parameter": {
+    "Chipload": "43.180 \u00b5m",
+    "CuttingEdgeHeight": "31.750 mm",
+    "Diameter": "12.700 mm",
+    "FlatRadius": "0.762 mm",
+    "Flutes": "3",
+    "Length": "76.200 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "12.700 mm"
+  },
+  "attribute": {}
+}

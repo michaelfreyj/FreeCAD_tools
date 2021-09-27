@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "3-8in_MaxiMet_3Flute_endmill",
+  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/endmill.fcstd",
+  "parameter": {
+    "Chipload": "43.180 \u00b5m",
+    "CuttingEdgeHeight": "19.050 mm",
+    "Diameter": "9.525 mm",
+    "Flutes": "3",
+    "Length": "63.500 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "9.525 mm"
+  },
+  "attribute": {}
+}
