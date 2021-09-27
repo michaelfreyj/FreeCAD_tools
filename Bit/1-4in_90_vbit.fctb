@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "1-4in_90_vbit",
+  "shape": "v-bit.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeAngle": "90.00 \u00b0",
+    "CuttingEdgeHeight": "12.00 mm",
+    "Diameter": "6.35 mm",
+    "Flutes": "2",
+    "Length": "40.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.35 mm",
+    "TipDiameter": "0.10 mm"
+  },
+  "attribute": {}
+}

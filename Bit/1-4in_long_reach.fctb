@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "1-4in_long_reach",
+  "shape": "/home/mfrey/CNC/FreeCAD_tools/Shape/endmill-longreach.FCStd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CutterHeight": "12.70 mm",
+    "Diameter": "6.35 mm",
+    "Flutes": "2",
+    "Length": "100.00 mm",
+    "Material": "Carbide",
+    "NeckDiameter": "5.95 mm",
+    "NeckLength": "50.00 mm",
+    "ShankDiameter": "6.35 mm"
+  },
+  "attribute": {}
+}

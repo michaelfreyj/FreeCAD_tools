@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "1.5mm_2Flute_sidecut",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "8.00 mm",
+    "Diameter": "1.50 mm",
+    "Flutes": "2",
+    "Length": "38.50 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm"
+  },
+  "attribute": {}
+}
