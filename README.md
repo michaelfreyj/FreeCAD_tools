@@ -1,2 +1,2 @@
-# FreeCAD_Toolbits
+# FreeCAD Tools
 Repo for all my freecad toolbit files
