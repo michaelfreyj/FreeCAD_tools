@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "3-16in_MaxiMet_3Flute_3-16_endmill",
-  "shape": "C:/Users/Michael.f.BOMATERIALS/AppData/Local/Programs/FreeCAD 0.19/Mod/Path/Tools/Shape/endmill.fcstd",
+  "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "60.960 \u00b5m",
     "CuttingEdgeHeight": "5.556 mm",

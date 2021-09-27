@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "1-4in_45degree_Harvey_dovetail",
-  "shape": "C:/Users/Michael.f.BOMATERIALS/OneDrive - Boston Materials, Inc/Documents/CNC_stuff/FreeCAD_tools/Shape/dovetail.fcstd",
+  "shape": "dovetail.fcstd",
   "parameter": {
     "Angle": "45.000 \u00b0",
     "Chipload": "0.000 mm",

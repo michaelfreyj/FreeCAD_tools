@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "1-4in_long_reach",
-  "shape": "/home/mfrey/CNC/FreeCAD_tools/Shape/endmill-longreach.FCStd",
+  "shape": "endmill-longreach.FCStd",
   "parameter": {
     "Chipload": "0.00 mm",
     "CutterHeight": "12.70 mm",
