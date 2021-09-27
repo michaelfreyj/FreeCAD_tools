@@ -1,0 +1,49 @@
+{
+  "tools": [
+    {
+      "nr": 1,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_2Flute_sidecut.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/2mm_2Flute_sidecut.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_2Flute_Ball.fctb"
+    },
+    {
+      "nr": 4,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_2Flute_upcut.fctb"
+    },
+    {
+      "nr": 5,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_90_vbit.fctb"
+    },
+    {
+      "nr": 6,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_60_vbit.fctb"
+    },
+    {
+      "nr": 7,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-8in_30_vbit.fctb"
+    },
+    {
+      "nr": 8,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-4in_90_vbit.fctb"
+    },
+    {
+      "nr": 9,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1-4in_60_vbit.fctb"
+    },
+    {
+      "nr": 10,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1.5mm_2Flute_sidecut.fctb"
+    },
+    {
+      "nr": 11,
+      "path": "/home/mfrey/CNC/FreeCAD_tools/Bit/1mm_2Flute_upcut.fctb"
+    }
+  ],
+  "version": 1
+}
